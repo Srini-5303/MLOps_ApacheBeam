@@ -13,6 +13,7 @@ pip install apache-beam
 #### Creating Project Structure
 
 mkdir data
+
 mkdir outputs
 
 - I downloaded the kinglear txt from the MLOps github repo.
